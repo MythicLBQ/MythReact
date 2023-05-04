@@ -5,19 +5,35 @@ import '../styles/modesta.css';
 function Home() {
   return (
     <div className="Home">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark align-top">
+        <a class="navbar-brand" href="#">MythicXGN</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="/kore">Kore<span class="sr-only">(current)</span></a>
+            </li>
+          </ul>
+        </div>
+      </nav>
         <div class="fullscreen">
           <div class="background"></div>
             <section class="me">
               <section class="center-object overlay">
-                <div class="alert alert-warning">
+                <div class="alert alert-info">
                   <p class="text-dark">Lets Come Together as a Community Please Check <a href="#sigh">Sighcodelics</a> For More Information</p>
                 </div>
                   <a href="https://discord.com/users/847363776961314817"><img align="center" src="https://lanyard.cnrad.dev/api/847363776961314817?bg=23283d&borderRadius=8px" alt=""></img></a>
                   <br></br>
                   <a href="https://github.com/MythicXGN">
                     <img align="center" src="https://github-readme-stats.vercel.app/api?username=MythicXGN&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt=""></img>
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MythicXGN&theme=tokyonight&layout=compact&hide_border=true" alt=""></img>
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MythicXGN&theme=tokyonight&layout=compact&hide_border=true" alt="" height={"195px"}></img>
                   </a>
+                  <section class="buttons">
+                    <a href="/kore" class="btn animation hover discord-dropshadow">About Kore</a>
+                  </section>
               </section>
             </section>
         </div>

@@ -223,3 +223,11 @@ footer {
   width: 500px !important;
   height: 1000px !important;
 }
+
+.text-dark {
+  margin-bottom: 0rem !important;
+}
+
+.ktext {
+  font-size: 1.5rem;
+}
