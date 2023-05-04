@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e07bf52.css",
+    "main.js": "/static/js/main.6a06b59b.js",
+    "static/media/sigh.png": "/static/media/sigh.fbc6e110cf2f32323b92.png",
+    "static/media/cupid.png": "/static/media/cupid.42ce40d04942b529d122.png",
+    "static/media/backgroundAboutme.png": "/static/media/backgroundAboutme.01ee279725865831c4ce.png",
+    "static/media/background.png": "/static/media/background.19c5aec65aad4ec14ebf.png",
+    "static/media/clubsBackground.png": "/static/media/clubsBackground.a0008ae00886afdd55f7.png",
+    "static/media/Queen_LBQ.png": "/static/media/Queen_LBQ.1f05dbfaab59b971d250.png",
+    "index.html": "/index.html",
+    "main.6e07bf52.css.map": "/static/css/main.6e07bf52.css.map",
+    "main.6a06b59b.js.map": "/static/js/main.6a06b59b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e07bf52.css",
+    "static/js/main.6a06b59b.js"
+  ]
+}
