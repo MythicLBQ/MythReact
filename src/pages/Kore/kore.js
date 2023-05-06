@@ -16,6 +16,7 @@ function Kore() {
                         <section class="buttons">
                             <a href="https://discord.com/oauth2/authorize?client_id=1102004963347017919&scope=bot&permissions=8" class="btn animation hover discord-dropshadow">Invite Kore</a>
                             <a href="https://github.com/MythicXGN/Kore" class="btn animation hover github-dropshadow">Kore's Github</a>
+                            <a href="/dashboard" class="btn animation hover emerald-dropshadow">Kore Dashboard</a>
                         </section>
                     </section>
                 </section>

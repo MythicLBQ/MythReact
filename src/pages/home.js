@@ -5,19 +5,6 @@ import '../styles/modesta.css';
 function Home() {
   return (
     <div className="Home">
-      <nav class="navbar navbar-expand-lg navbar-dark bg-dark align-top">
-        <a class="navbar-brand" href="#">MythicXGN</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item active">
-              <a class="nav-link" href="/kore">Kore<span class="sr-only">(current)</span></a>
-            </li>
-          </ul>
-        </div>
-      </nav>
         <div class="fullscreen">
           <div class="background"></div>
             <section class="me">
@@ -32,7 +19,7 @@ function Home() {
                     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MythicXGN&theme=tokyonight&layout=compact&hide_border=true" alt="" height={"195px"}></img>
                   </a>
                   <section class="buttons">
-                    <a href="/kore" class="btn animation hover discord-dropshadow">About Kore</a>
+                    <a href="https://patreon.com/MythicStudios" class="btn animation hover patreon-dropshadow">Support My Work</a>
                   </section>
               </section>
             </section>
@@ -43,46 +30,17 @@ function Home() {
             <section class="center-object overlay">
               <div class="jumbotron bg-dark">
                 <h1>About Me!</h1>
-                <p>Hi! Im Mythic but I also go by Retriver or if you know me personally Thomas, I am currently on lvl 20 of this game we call life, Looking for my next powerup.</p><br>
+                <p>Hi Im Mythic, aka Thomas. Im a 20 year old Developer / World Creator with the passion to make everyones vrchat experience better and more amazing.</p><br>
                 </br>
-                <p>I am a self taught developer, world creator. with knowlage of c++, javascript, typescript, html, css, c+, and c#</p><br>
+                <p>I love all of the people who support me and if there is any form of benifits you would like to see off of patreon lmk.</p><br>
                 </br>
-                <p>I work for mutiple vrc clubs and even do commissions on the side if you ever would like a quote or to see my work message me on discord. </p><br>
-                </br>
-                <p>If your reading this your beautiful (you know who you are)</p>
+                <p>Looking for work done? Discord bot / World? Etc. Message me on Discord! Dms are always open</p>
               </div>
             </section>
           </section>
         </div>
-        <div class="fullscreen">
-          <div class="sighBackground"></div>
-            <section class="me">
-              <section class="center-object overlay">
-                <div class="jumbotron bg-dark center" id="sigh">
-                  <h1>Sighcodelics</h1>
-                  <p>Sighcodelics, Is the Owner of Desirable Secrets and a Personal friend of Mine. She is an amzing person, recently she was hospilized without insurance. <br>
-                  </br>
-                  Im making this post asking anyone who can donate to donate. Anything is appreaciated</p>
-
-                  <a href="https://cash.app/$Sighcodelics" class="btn animation hover emerald-dropshadow">Donate To Sighcodelics</a>
-                </div>
-              </section>
-            </section>
-        </div>
-        <div class="fullscreen">
-         <div class="cupid"></div>
-          <secion class="me">
-            <section class="center-object overlay">
-              <div class="jumbotron bg-dark center">
-                <h1>Cupid♡</h1>
-                <p>Something</p>
-                <a href="https://cupidsmilkvr.carrd.co/" class="btn animation hover playhouse-dropshadow">Cupid♡</a>
-              </div>
-            </section>
-          </secion>
-        </div>
         <section class="center">
-          <div class="jumbotron bg-dark lem center"><h1>My Family</h1></div>
+          <div class="lem-jumbotron jumbotron bg-dark lem center"><h1>Amazing People</h1></div>
         </section>
         <div class="fullscreen fs">
           <div class="Queen_LBQ"></div>
@@ -98,7 +56,7 @@ function Home() {
             <section class="me">
               <section class="center-object overlay">
                 <div class="jumbotron bg-dark center">
-                <h1>Mythic Endorced Clubs</h1>
+                <h1>Amazing Clubs</h1>
                   <section class="sadism">
                     <img src="https://i.imgur.com/00cVYAi.png" class="avatar" alt=""></img>
                     <a href="https://discord.gg/sadism" class="btn animation hover sadism-dropshadow">Sadism</a>

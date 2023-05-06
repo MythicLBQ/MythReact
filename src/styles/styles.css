@@ -208,7 +208,7 @@ footer {
 }
 
 .lem {
-  width: 500px;
+  width: 750px;
 }
 
 .fullscreen .background {
@@ -230,4 +230,16 @@ footer {
 
 .ktext {
   font-size: 1.5rem;
+}
+
+.navbar-nav {
+  padding-left: 0.5rem !important;
+}
+
+.buttons {
+  padding: 2rem;
+}
+
+.lem-jumbotron {
+  padding: 1rem !important;
 }
